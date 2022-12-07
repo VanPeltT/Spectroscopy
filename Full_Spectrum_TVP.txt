@@ -1,0 +1,17 @@
+Partlist exported from C:/Users/tvanpelt/Desktop/Full_Spectrum_TVP.sch at 12/1/2022 2:33 PM
+
+Qty Value           Device                    Package                 Parts            Description                           BOM    
+1   0.1uF           CAP_CERAMIC0603_NO        0603-NO                 C1               Ceramic Capacitors                           
+3   10K             RESISTOR_0603_NOOUT       0603-NO                 R1, R4, R7       Resistors                                    
+1   10K             RESISTOR_4PACK            RESPACK_4X0603          R3               Resistor Packs (4 resistors)                 
+1   10k             RESISTOR_4PACK_NO         RESPACK_4X0603_NO       R8               Resistor Packs (4 resistors)                 
+3   10uF            CAP_CERAMIC0805-NOOUTLINE 0805-NO                 C2, C3, C4       Ceramic Capacitors                           
+1   AP7312-3.3/1.8  VREG_SOT23-6_DUALAP7312   SOT23-6                 U1               Dual Output SOT23-6 Linear Regulators        
+1   AS7343          AS7341                    AS7341                  X2                                                            
+1   AS7421          AS7421                    AS7421                  X1                                                            
+2   BSS138          MOSFET-N_DUAL             SOT363                  Q2, Q3           Dual N-Channel MOSFET                        
+3   FIDUCIAL_1MM    FIDUCIAL_1MM              FIDUCIAL_1MM            FID1, FID3, FID4 Fiducial Alignment Points             EXCLUDE
+1   GREEN           LED0603_NOOUTLINE         CHIPLED_0603_NOOUTLINE  D1               LED                                          
+1   IN4148          DIODESOD-323              SOD-323                 D3               Diode                                        
+1   JST8-2.0        JST8-2.0                  JST8-2.0                SV1                                                           
+2   MOUNTINGHOLE2.5 MOUNTINGHOLE2.5           MOUNTINGHOLE_2.5_PLATED U$1, U$17        Mounting Hole                         EXCLUDE
