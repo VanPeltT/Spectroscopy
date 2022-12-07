@@ -7,7 +7,7 @@ Qty Value           Device                    Package                 Parts     
 1   10k             RESISTOR_4PACK_NO         RESPACK_4X0603_NO       R8               Resistor Packs (4 resistors)                 
 3   10uF            CAP_CERAMIC0805-NOOUTLINE 0805-NO                 C2, C3, C4       Ceramic Capacitors                           
 1   AP7312-3.3/1.8  VREG_SOT23-6_DUALAP7312   SOT23-6                 U1               Dual Output SOT23-6 Linear Regulators        
-1   AS7343          AS7341                    AS7341                  X2                                                            
+1   AS7343          AS7343                    AS7343                  X2                                                            
 1   AS7421          AS7421                    AS7421                  X1                                                            
 2   BSS138          MOSFET-N_DUAL             SOT363                  Q2, Q3           Dual N-Channel MOSFET                        
 3   FIDUCIAL_1MM    FIDUCIAL_1MM              FIDUCIAL_1MM            FID1, FID3, FID4 Fiducial Alignment Points             EXCLUDE
